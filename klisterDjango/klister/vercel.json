@@ -1,4 +1,4 @@
-
+{
 "builds": [{
     "src": "djangoprojectname/wsgi.py",
     "use": "@vercel/python",
